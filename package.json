@@ -1,7 +1,7 @@
 {
     "name": "com.kingdox.uniflux.input",
     "displayName": "UniFlux.Input",
-    "author": { "name": "Xavier Thomas Peter Arpa López ('Kingdox')", "url": "https://github.com/kingdox" },
+    "author": { "name": "Kingdox", "url": "https://github.com/kingdox" },
     "version": "1.0.1",
     "unity": "2020.1",
     "description": "Input Manager with UniFlux.",
