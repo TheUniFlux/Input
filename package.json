@@ -8,5 +8,7 @@
     "keywords": [ "Flux", "Unity", "UniFlux", "input" ],
     "license": "MIT",
     "category": "Flux",
-    "dependencies": {}
+    "dependencies": {
+        "com.kingdox.uniflux": "https://github.com/kingdox/UniFlux.git"
+    }
 }
