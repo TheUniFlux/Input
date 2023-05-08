@@ -9,6 +9,6 @@
     "license": "MIT",
     "category": "Flux",
     "dependencies": {
-        "com.kingdox.uniflux": "https://github.com/kingdox/UniFlux.git"
+        "com.kingdox.uniflux": "1.3.1"
     }
 }
